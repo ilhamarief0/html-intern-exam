@@ -1,0 +1,10 @@
+{
+  "os": "Ubuntu 26.04.1 LTS",
+  "kernel": "Linux 7.0.0-38-generic",
+  "hostname": "divops-nitro",
+  "uptime": "up 7 hours, 1 minute",
+  "server_ip": "192.168.1.6",
+  "gateway": "192.168.1.1",
+  "web_server": "Tidak ditemukan (jalankan: apt install nginx)",
+  "updated_at": "2026-10-22 23:19:04"
+}
